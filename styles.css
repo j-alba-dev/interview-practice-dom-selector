@@ -1,12 +1,17 @@
 .container {
-    text-align: center;
+  text-align: center;
 }
 
 #photo {
-    max-width: 100%;
-    transition: all 0.3s ease-in-out;
+  max-width: 100%;
+  transition: all 0.3s ease-in-out;
+  border-radius: 5%;
 }
 
 button {
-    margin-top: 10px;
+  margin-top: 10px;
+}
+
+body {
+  background-color: black;
 }
